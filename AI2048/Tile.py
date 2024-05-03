@@ -5,6 +5,7 @@ class Tile:
     position = [0, 0]
 
 
-    def increasenum(self):
+    def increasenum():
+        num += 2
 
 

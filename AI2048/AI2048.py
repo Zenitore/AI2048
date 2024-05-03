@@ -10,7 +10,7 @@ defaultscore = 2
 pygame.init()
 
 surface = pygame.display.set_mode((400, 500), 0, 32)
-pygame.display.set_caption("2048 Game by DataFlair")
+pygame.display.set_caption("2048 Game")
 
 font = pygame.font.SysFont("monospace", 40)
 fontofscore = pygame.font.SysFont("monospace", 30)
